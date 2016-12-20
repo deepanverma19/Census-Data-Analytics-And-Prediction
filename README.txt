@@ -1,0 +1,1 @@
+This project aims at analysing the various attributes of population being listed in the dataset like total population, sex ratio, employment, literacy, caste, etc. for 2001 census and 2011 census and then using a suitable data mining algorithm and finally predicting values for the 2021 census.
